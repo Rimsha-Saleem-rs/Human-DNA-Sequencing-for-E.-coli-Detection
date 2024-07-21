@@ -3,11 +3,13 @@
 This project focuses on using machine learning algorithms to detect E. coli in human DNA sequences.
 <br> <br>
 Project Workflow :
-1. Dataset creation (Data Refinement and Structuring)
-2. One-Hot Encoding the DNA Sequences
-3. Fixing and Encoding Classes
-4. Splitting Data into Training and Testing Sets (Train Size - 75% and Test Size - 25%)
-5. Model Training and Evaluation
+<ol>
+<li>Dataset creation (Data Refinement and Structuring)</li>
+<li>One-Hot Encoding the DNA Sequences</li>
+<li>Fixing and Encoding Classes</li>
+<li>Splitting Data into Training and Testing Sets (Train Size - 75% and Test Size - 25%)</li>
+<li>Model Training and Evaluation</li>
+  </ol>
 <br>
 Models used :
 <ul>
