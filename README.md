@@ -11,7 +11,7 @@ Project Workflow :
 <li>Splitting Data into Training and Testing Sets (Train Size - 75% and Test Size - 25%)</li>
 <li>Model Training and Evaluation</li>
   </ol>
-<br><br>
+<br>
 Models used :
 <br>
 <ul>
