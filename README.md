@@ -8,7 +8,7 @@ Project Workflow :
 <li>Dataset creation (Data Refinement and Structuring)</li>
 <li>One-Hot Encoding the DNA Sequences</li>
 <li>Fixing and Encoding Classes</li>
-<li>Splitting Data into Training and Testing Sets (Train Size - 75% and Test Size - 25%)</li>
+<li>Splitting Data into Train and Test Sets (Train Set Size - 75% and Test Set Size - 25%)</li>
 <li>Model Training and Evaluation</li>
   </ol>
 <br>
